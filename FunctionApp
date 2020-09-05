@@ -1,0 +1,4 @@
+This is serverless computing service.
+Can create in VS code and deploy from the same in Azure FunctionApp service platform.
+Eventbase trigger where peice of code it invoked by trigger
+In this architecture, the function is invoked when a client makes an HTTP request. The request is always routed through an API gateway,.
